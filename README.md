@@ -33,7 +33,7 @@ PyRamen is a data analysis project that solves a very real problem for an imagin
 
 ## Inspiration
 
-Wanted to write some python, came across this dataset and boom!
+Wanted to try out Azure notebooks, came across this dataset and boom!
 
 ### Imaginary problem statement
 
