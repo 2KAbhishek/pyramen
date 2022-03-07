@@ -41,6 +41,16 @@ pyramen is a `<utility/tool/feature>` that allows `<insert_target_audience>` to 
 
 pyramen was inspired by `<reason/idea>`.
 
+### Imaginary problem statement
+
+Welcome to 2KRamen!
+
+Opening a ramen shop has always been my dream, and now it's finally been realized – I'm closing out on my second year of sales!
+
+I need to analyze my business's financial performance by cross-referencing my sales data with my internal menu data to figure out revenues and costs for the year.
+
+I also want to analyze how well my business did on a per-product basis in order to better understand which products may need to be removed or changed.
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
