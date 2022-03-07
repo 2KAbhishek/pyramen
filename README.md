@@ -1,6 +1,6 @@
 <div align = "center">
 
-<h1><a href="https://2kabhishek.github.io/pyramen">pyramen</a></h1>
+<h1><a href="https://2kabhishek.github.io/pyramen">PyRamen</a></h1>
 
 <a href="https://github.com/2KAbhishek/pyramen/blob/main/LICENSE">
 <img alt="License" src="https://img.shields.io/github/license/2kabhishek/pyramen?style=plastic&color=white&label=License"> </a>
@@ -23,23 +23,17 @@
 <a href="https://github.com/2KAbhishek?tab=followers">
 <img alt="Followers" src="https://img.shields.io/github/followers/2kabhishek?color=222&style=plastic&label=Followers"> </a>
 
-<h3>Short sweet headline with 🎇🎉</h3>
-
-<figure>
-  <img src= "https://raw.githubusercontent.com/2KAbhishek/pyramen/main/images/screenshot.png" alt="pyramen Demo" style="width:100%">
-  <br/>
-  <figcaption>pyramen screenshot</figcaption>
-</figure>
+<h3>Data Analysis for Ramen 🍜💹</h3>
 
 </div>
 
 ## What is this
 
-pyramen is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+PyRamen is a data analysis project that solves a very real problem for an imaginary ramen shop.
 
 ## Inspiration
 
-pyramen was inspired by `<reason/idea>`.
+Wanted to write some python, came across this dataset and boom!
 
 ### Imaginary problem statement
 
@@ -55,60 +49,38 @@ I also want to analyze how well my business did on a per-product basis in order 
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed the latest version of `<coding_language/dependency/requirement_1>`
+- You have installed the latest version of `python`
 
-## Getting pyramen
+## Getting PyRamen
 
-To install pyramen, follow these steps:
+To get PyRamen, follow these steps:
 
 ```bash
 git clone https://github.com/2kabhishek/pyramen
 cd pyramen
-<install_command>
 ```
 
-## Using pyramen
+## Using PyRamen
 
 ```bash
-USAGE:
-    command [FLAGS] [OPTIONS]
-
-FLAGS:
-    -h, --help              Prints help information.
-
-OPTIONS:
-    -o, --option <value>    Option description.
-    Options are: a, b. [default: a]
-
-Example:
-
+python pyramen.py # This will run the program, and will produce a report
 
 ```
+
+The report will be saved to the `gen/report.md` file. Try exploring the `data` and report folders to see what else you can do with the data.
 
 ## How it was built
 
-pyramen was built using `<tech/library>`
+pyramen was built using `python` and the `csv` module.
 
 ## Challenges faced
 
-While building pyramen the main challenges were `<issue/difficulty>`
+Hunting for the data, and coming up with an imaginative problem statement :)
 
 ## What I learned
 
-While building pyramen I `<learned/accomplished>` about `<learning/accomplishment>`
-
-## What's next
-
-Planning to add `<feature/module>`.
-
-### To-Do
-
-- [x] Setup repo
-- [ ] Think real hard
-- [ ] Start typing
-- [ ] Change me
-- [ ] Update README
-- [ ] Finish it
+- Didn't use pandas, opted for csv module, which was sufficient for this problem.
+- Followed python best practices as much as possible.
 
 Hit the ⭐ button if you found this useful.
 
